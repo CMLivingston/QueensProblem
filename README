@@ -1,0 +1,15 @@
+Solution to the Queens Problem
+
+Author: Chris Livingston 
+
+To compile:
+
+	javac Queen.java
+
+To run:
+
+	java Queen [int that is > 0 and < 20]
+
+Ex:
+
+	java Queen 7
